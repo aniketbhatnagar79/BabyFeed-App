@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Baby Feed</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_item">Add Item</string>
+    <string name="enter_item">Enter Item</string>
+    <string name="hint_item">Item</string>
+    <string name="hint_item1">Quantity</string>
+    <string name="hint_item2">Color</string>
+    <string name="hint_item3">Size</string>
+    <string name="saveButton">Save</string>
+    <string name="sure_text">Are You Sure?</string>
+    <string name="no_text">NO</string>
+    <string name="yes_text">YES</string>
+
+</resources>
